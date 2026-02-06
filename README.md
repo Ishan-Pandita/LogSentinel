@@ -2,8 +2,6 @@
 
 **LogSentinel** is a MERN-stack distributed system designed to ingest, analyze, and visualize logs from multiple services in real-time. It features an Intrusion Detection System (IDS) that automatically flags suspicious activities like **Brute Force Attacks** and displays them on a professional Security Dashboard.
 
-![Dashboard Preview](https://via.placeholder.com/800x450.png?text=LogSentinel+Dashboard)
-*(Replace this with a real screenshot of your dashboard!)*
 
 ---
 
@@ -134,4 +132,4 @@ c:\Project3
 
 ---
 
-*Built with ❤️ for the Placements.*
+*Thank You.*
