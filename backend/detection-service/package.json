@@ -1,0 +1,15 @@
+{
+    "name": "detection-service",
+    "version": "1.0.0",
+    "description": "Intrusion Detection Engine",
+    "main": "detector.js",
+    "scripts": {
+        "start": "node detector.js",
+        "dev": "node --watch detector.js"
+    },
+    "dependencies": {
+        "dotenv": "^16.3.0",
+        "mongoose": "^8.0.0",
+        "node-cron": "^3.0.3"
+    }
+}
